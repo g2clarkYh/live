@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="•央视「IPV6」" tvg-logo="https://epg.112114.xyz/logo/cctv3.png",CCTV3 4K「IPV6」
-http://[2409:8087:2001:20:2800:0:df6e:eb20]/ott.mobaibox.com/PLTV/4/224/3221228499/index.m3u8
-#EXTINF:-1 group-title="•央视「IPV6」" tvg-logo="https://epg.112114.xyz/logo/cctv5.png",CCTV5 4K「IPV6」
 http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
 #EXTINF:-1 group-title="•央视「IPV6」" tvg-logo="https://epg.112114.xyz/logo/cctv1.png",CCTV1「IPV6」
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
